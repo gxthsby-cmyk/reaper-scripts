@@ -1,6 +1,4 @@
 -- @description oxygen pro mini daw control
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- Oxygen Pro Mini - Smooth Fader + Knob Mapping for Selected Tracks

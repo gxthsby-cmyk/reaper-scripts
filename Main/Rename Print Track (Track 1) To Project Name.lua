@@ -1,6 +1,4 @@
 -- @description Rename Print Track (Track 1) To Project Name
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- Rename Track 1 to the project filename without extension

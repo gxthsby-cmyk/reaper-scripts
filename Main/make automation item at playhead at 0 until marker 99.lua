@@ -1,6 +1,4 @@
 -- @description make automation item at playhead at 0 until marker 99
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- ReaScript Name: Call Action 42082

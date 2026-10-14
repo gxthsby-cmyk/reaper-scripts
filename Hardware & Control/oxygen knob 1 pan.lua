@@ -1,6 +1,4 @@
 -- @description oxygen knob 1 pan
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- CC37 Pan → 1st selected track

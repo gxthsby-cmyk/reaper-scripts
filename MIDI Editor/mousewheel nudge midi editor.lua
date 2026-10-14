@@ -1,6 +1,4 @@
 -- @description mousewheel nudge midi editor
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main=midi_editor] .
 
 -- Mousewheel-direction MIDI note nudger for REAPER

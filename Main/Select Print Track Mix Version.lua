@@ -1,6 +1,4 @@
 -- @description Select Print Track Mix Version
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 reaper.Undo_BeginBlock()

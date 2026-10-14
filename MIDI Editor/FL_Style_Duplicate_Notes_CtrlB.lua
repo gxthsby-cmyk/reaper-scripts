@@ -1,6 +1,4 @@
 -- @description FL_Style_Duplicate_Notes_CtrlB
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main=midi_editor] .
 
 -- Smart Ctrl+B: Duplicate MIDI time selection if present, else selected notes forward by one grid

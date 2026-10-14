@@ -1,6 +1,4 @@
 -- @description reset selected tracks faders to 0 script
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 --[[

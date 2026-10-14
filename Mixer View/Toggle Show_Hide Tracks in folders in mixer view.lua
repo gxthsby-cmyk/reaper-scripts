@@ -1,6 +1,4 @@
 -- @description Toggle Show_Hide Tracks in folders in mixer view
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- Toggle Show/Hide Children of All Folder Tracks in Mixer

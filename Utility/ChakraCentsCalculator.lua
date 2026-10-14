@@ -1,6 +1,4 @@
 -- @description ChakraCentsCalculator
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- Utility: get nearest note name for a frequency relative to master A

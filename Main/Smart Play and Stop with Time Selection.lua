@@ -1,6 +1,4 @@
 -- @description Smart Play and Stop with Time Selection
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- Smart Play/Stop for MIDI Editor

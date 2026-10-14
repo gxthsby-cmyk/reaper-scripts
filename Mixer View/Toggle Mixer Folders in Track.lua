@@ -1,6 +1,4 @@
 -- @description Toggle Mixer Folders in Track
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- Toggle Mixer Visibility for "Mix" Folder and All Tracks

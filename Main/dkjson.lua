@@ -1,6 +1,4 @@
 -- @description dkjson
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- Module options:

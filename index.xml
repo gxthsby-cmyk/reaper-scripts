@@ -1,2 +1,221 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Jack Di Lante Scripts"/>
+<index version="1" name="Jack Di Lante Scripts" commit="f1d29069c7302c11d354a085e4dc5f2d357b42b0">
+  <category name="Hardware &amp; Control">
+    <reapack name="MonsKnob.lua" type="script" desc="MonsKnob">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Hardware%20&amp;%20Control/MonsKnob.lua</source>
+      </version>
+    </reapack>
+    <reapack name="oxygen knob 1 pan.lua" type="script" desc="oxygen knob 1 pan">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Hardware%20&amp;%20Control/oxygen%20knob%201%20pan.lua</source>
+      </version>
+    </reapack>
+    <reapack name="oxygen pro mini daw control fk1.lua" type="script" desc="oxygen pro mini daw control fk1">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Hardware%20&amp;%20Control/oxygen%20pro%20mini%20daw%20control%20fk1.lua</source>
+      </version>
+    </reapack>
+    <reapack name="oxygen pro mini daw control.lua" type="script" desc="oxygen pro mini daw control">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Hardware%20&amp;%20Control/oxygen%20pro%20mini%20daw%20control.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Main">
+    <reapack name="add fx to selected or last touched track.lua" type="script" desc="add fx to selected or last touched track">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/add%20fx%20to%20selected%20or%20last%20touched%20track.lua</source>
+      </version>
+    </reapack>
+    <reapack name="chakratest.lua" type="script" desc="chakratest">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/chakratest.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Context aware smart delete.lua" type="script" desc="Context aware smart delete">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/Context%20aware%20smart%20delete.lua</source>
+      </version>
+    </reapack>
+    <reapack name="dkjson.lua" type="script" desc="dkjson">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/dkjson.lua</source>
+      </version>
+    </reapack>
+    <reapack name="DynamicTimingHelper.lua" type="script" desc="DynamicTimingHelper">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/DynamicTimingHelper.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Insert New Track enhanced.lua" type="script" desc="Insert New Track enhanced">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/Insert%20New%20Track%20enhanced.lua</source>
+      </version>
+    </reapack>
+    <reapack name="insert track with same color as other tracks in that folder.lua" type="script" desc="insert track with same color as other tracks in that folder">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/insert%20track%20with%20same%20color%20as%20other%20tracks%20in%20that%20folder.lua</source>
+      </version>
+    </reapack>
+    <reapack name="load window set 5 or 1.lua" type="script" desc="load window set 5 or 1">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/load%20window%20set%205%20or%201.lua</source>
+      </version>
+    </reapack>
+    <reapack name="make automation item at playhead at 0 until marker 99.lua" type="script" desc="make automation item at playhead at 0 until marker 99">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/make%20automation%20item%20at%20playhead%20at%200%20until%20marker%2099.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Open plugins main monitor.lua" type="script" desc="Open plugins main monitor">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/Open%20plugins%20main%20monitor.lua</source>
+      </version>
+    </reapack>
+    <reapack name="PRO TOOLS TRIM TEST2.lua" type="script" desc="PRO TOOLS TRIM TEST2">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/PRO%20TOOLS%20TRIM%20TEST2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="reaper_www_root_script.lua" type="script" desc="reaper_www_root_script">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/reaper_www_root_script.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Rename Print Track (Track 1) To Project Name.lua" type="script" desc="Rename Print Track (Track 1) To Project Name">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/Rename%20Print%20Track%20(Track%201)%20To%20Project%20Name.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Rename Track Name To Project Name.lua" type="script" desc="Rename Track Name To Project Name">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/Rename%20Track%20Name%20To%20Project%20Name.lua</source>
+      </version>
+    </reapack>
+    <reapack name="reset selected tracks faders to 0 script.lua" type="script" desc="reset selected tracks faders to 0 script">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/reset%20selected%20tracks%20faders%20to%200%20script.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Scroll vertically 1 track (mousewheel).lua" type="script" desc="Scroll vertically 1 track (mousewheel)">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/Scroll%20vertically%201%20track%20(mousewheel).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Select Print Track Mix Version.lua" type="script" desc="Select Print Track Mix Version">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/Select%20Print%20Track%20Mix%20Version.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Smart Duplicate Items.lua" type="script" desc="Smart Duplicate Items">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/Smart%20Duplicate%20Items.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Smart Play and Stop with Time Selection.lua" type="script" desc="Smart Play and Stop with Time Selection">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/Smart%20Play%20and%20Stop%20with%20Time%20Selection.lua</source>
+      </version>
+    </reapack>
+    <reapack name="track show like in arrange view.lua" type="script" desc="track show like in arrange view">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Main/track%20show%20like%20in%20arrange%20view.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="MIDI Editor">
+    <reapack name="fl studio legato.lua" type="script" desc="fl studio legato">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="midi_editor">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/MIDI%20Editor/fl%20studio%20legato.lua</source>
+      </version>
+    </reapack>
+    <reapack name="FL_Style_Duplicate_Notes_CtrlB.lua" type="script" desc="FL_Style_Duplicate_Notes_CtrlB">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="midi_editor">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/MIDI%20Editor/FL_Style_Duplicate_Notes_CtrlB.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Insert Note And Use Last Notes Note Length.lua" type="script" desc="Insert Note And Use Last Notes Note Length">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="midi_editor">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/MIDI%20Editor/Insert%20Note%20And%20Use%20Last%20Notes%20Note%20Length.lua</source>
+      </version>
+    </reapack>
+    <reapack name="mousewheel nudge midi editor.lua" type="script" desc="mousewheel nudge midi editor">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="midi_editor">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/MIDI%20Editor/mousewheel%20nudge%20midi%20editor.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Smart Play and Stop with Time Selection in MIDI EDITOR.lua" type="script" desc="Smart Play and Stop with Time Selection in MIDI EDITOR">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="midi_editor">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/MIDI%20Editor/Smart%20Play%20and%20Stop%20with%20Time%20Selection%20in%20MIDI%20EDITOR.lua</source>
+      </version>
+    </reapack>
+    <reapack name="velocity updown (MIDI relative or mousewheel).lua" type="script" desc="velocity updown (MIDI relative or mousewheel)">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="midi_editor">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/MIDI%20Editor/velocity%20updown%20(MIDI%20relative%20or%20mousewheel).lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Mixer View">
+    <reapack name="Toggle Mixer Folders in Track.lua" type="script" desc="Toggle Mixer Folders in Track">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Mixer%20View/Toggle%20Mixer%20Folders%20in%20Track.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Toggle Show_Hide Tracks in folders in mixer view.lua" type="script" desc="Toggle Show_Hide Tracks in folders in mixer view">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Mixer%20View/Toggle%20Show_Hide%20Tracks%20in%20folders%20in%20mixer%20view.lua</source>
+      </version>
+    </reapack>
+    <reapack name="vertical waveshapes.lua" type="script" desc="vertical waveshapes">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Mixer%20View/vertical%20waveshapes.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Neutronic">
+    <reapack name="neutronic_quick add fx.lua" type="script" desc="neutronic_quick add fx">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Neutronic/neutronic_quick%20add%20fx.lua</source>
+      </version>
+    </reapack>
+    <reapack name="neutronic_quick adder 2.lua" type="script" desc="neutronic_quick adder 2">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Neutronic/neutronic_quick%20adder%202.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Startup">
+    <reapack name="__startup.lua" type="script" desc="__startup">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Startup/__startup.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Startup children visible in tracks.lua" type="script" desc="Startup children visible in tracks">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Startup/Startup%20children%20visible%20in%20tracks.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Utility">
+    <reapack name="ChakraCentsCalculator.lua" type="script" desc="ChakraCentsCalculator">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Utility/ChakraCentsCalculator.lua</source>
+      </version>
+    </reapack>
+    <reapack name="key detecter.lua" type="script" desc="key detecter">
+      <version name="1.0" author="Jack Di Lante" time="2026-10-14T18:19:22Z">
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Utility/key%20detecter.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Smart Adjust Last Touched Parameter Arvid.lua" type="script" desc="Adjust last touched parameter with dynamic step based on N steps">
+      <metadata>
+        <link rel="website">http://forum.cockos.com/showthread.php?t=188335</link>
+      </metadata>
+      <version name="1.05" author="MPL (modified)" time="2026-10-14T18:19:22Z">
+        <changelog><![CDATA[+ Step size dynamically calculated from parameter range, based on steps]]></changelog>
+        <source main="main">https://github.com/gxthsby-cmyk/reaper-scripts/raw/f1d29069c7302c11d354a085e4dc5f2d357b42b0/Utility/Smart%20Adjust%20Last%20Touched%20Parameter%20Arvid.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>

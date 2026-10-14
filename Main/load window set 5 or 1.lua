@@ -1,6 +1,4 @@
 -- @description load window set 5 or 1
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- Toggles between window set 2 and window set 1

@@ -1,13 +1,10 @@
 -- @description Toggle Mixer Folders in Track
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- Toggle Mixer Visibility for "Mix" Folder and All Tracks
 -- Toggles between:
 -- 1. Showing only "Mix" folder and its children
 -- 2. Showing all tracks
--- Author: ChatGPT
 
 -- Get current toggle state from project (0 = all shown, 1 = only Mix)
 local _, state = reaper.GetProjExtState(0, "MixToggle", "State")

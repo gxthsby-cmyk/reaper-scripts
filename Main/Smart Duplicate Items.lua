@@ -1,6 +1,4 @@
 -- @description Smart Duplicate Items
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- Smart Duplicate Items (FL-style, time selection + selection intersect logic)

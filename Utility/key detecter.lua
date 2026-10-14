@@ -1,6 +1,4 @@
 -- @description key detecter
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- Detect the key of selected MIDI items in Reaper

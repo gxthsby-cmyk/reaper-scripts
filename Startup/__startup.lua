@@ -1,6 +1,4 @@
 -- @description __startup
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- Start script: Adaptive grid (background process)

@@ -1,6 +1,4 @@
 -- @description velocity updown (MIDI relative or mousewheel)
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main=midi_editor] .
 
 --[[

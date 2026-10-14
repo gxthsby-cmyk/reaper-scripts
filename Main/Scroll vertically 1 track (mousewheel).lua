@@ -1,6 +1,4 @@
 -- @description Scroll vertically 1 track (mousewheel)
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- Scroll vertically by exactly one track height (zoom-aware)

@@ -1,6 +1,4 @@
 -- @description Startup children visible in tracks
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- Select all folder tracks

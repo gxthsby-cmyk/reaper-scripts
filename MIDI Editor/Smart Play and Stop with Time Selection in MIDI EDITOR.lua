@@ -1,6 +1,4 @@
 -- @description Smart Play and Stop with Time Selection in MIDI EDITOR
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main=midi_editor] .
 
 -- Move edit/play cursor to start of time selection (in MIDI Editor)

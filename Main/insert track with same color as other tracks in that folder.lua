@@ -1,6 +1,4 @@
 -- @description insert track with same color as other tracks in that folder
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- Insert track with same color as its folder (parent track)

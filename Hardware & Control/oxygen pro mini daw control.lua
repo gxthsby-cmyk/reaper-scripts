@@ -1,12 +1,9 @@
 -- @description oxygen pro mini daw control
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- Oxygen Pro Mini - Smooth Fader + Knob Mapping for Selected Tracks
 -- Faders 1–4: Volume (0dB to -30dB, below 0.01 = silent)
 -- Knobs 1–4: Pan (snap to fixed positions)
--- Author: ChatGPT
 
 -----------------------------------------
 -- CONFIGURATION

@@ -1,6 +1,4 @@
 -- @description track show like in arrange view
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 --[[

@@ -1,6 +1,4 @@
 -- @description add fx to selected or last touched track
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- Step 1: Get the first selected track

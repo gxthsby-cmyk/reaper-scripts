@@ -1,6 +1,4 @@
 -- @description chakratest
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 -- Chakra + Key GUI (manual key input, nearest octave cents calculation)

@@ -1,11 +1,8 @@
 -- @description DynamicTimingHelper
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 --[[
 Attack / Release Timing Helper
-Author: ChatGPT (GPT-5)
 Description: Displays rhythmic timing values in milliseconds for the current BPM.
 Requires: ReaImGui
 ]]

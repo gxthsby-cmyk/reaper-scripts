@@ -1,6 +1,4 @@
 -- @description Open plugins main monitor
--- @author Jack Di Lante
--- @version 1.0
 -- @provides [main] .
 
 --[[ 

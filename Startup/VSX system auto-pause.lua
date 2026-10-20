@@ -9,6 +9,10 @@
 -- @provides [main] .
 
 local cmd = os.getenv("HOME") .. "/.local/bin/vsx-system"
+-- vsx-system's watchdog turns VSX back on if this heartbeat stops (REAPER
+-- crashed or froze), since atexit doesn't run then.
+local heartbeat = (os.getenv("XDG_RUNTIME_DIR") or "/tmp") .. "/reaper-heartbeat"
+local last_beat = 0
 local paused = false
 
 local function set_vsx(on)
@@ -16,6 +20,11 @@ local function set_vsx(on)
 end
 
 local function loop()
+  if os.time() ~= last_beat then
+    last_beat = os.time()
+    local f = io.open(heartbeat, "w")
+    if f then f:write(last_beat); f:close() end
+  end
   local playing = reaper.GetPlayState() & 5 ~= 0 -- 1 = playing, 4 = recording
   if playing ~= paused then
     paused = playing
